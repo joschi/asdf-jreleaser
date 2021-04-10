@@ -1,6 +1,6 @@
 # asdf-jreleaser
 
-[![GitHub Actions Status](https://github.com/joschi/asdf-jreleaser/workflows/Main%20workflow/badge.svg?branch=main)](https://github.com/joschi/asdf-jreleaser/actions)
+[![GitHub Actions Status](https://github.com/joschi/asdf-jreleaser/workflows/Main%20workflow/badge.svg?branch=master)](https://github.com/joschi/asdf-jreleaser/actions)
 [![GitHub license](https://img.shields.io/github/license/joschi/asdf-jreleaser?style=plastic)](https://github.com/joschi/asdf-jreleaser/blob/master/LICENSE)
 
 ## JReleaser
