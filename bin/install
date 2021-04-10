@@ -16,7 +16,7 @@ installer() {
 
   if [ "version" != "${install_type}" ]; then
     echo "The asdf-jreleaser plugin only supports installing official"
-    echo "binary releases as built by the Layrry team."
+    echo "binary releases as built by the JReleaser team."
     echo "If you want to install another version from source, see:"
     echo "https://jreleaser.org/"
     exit 1
